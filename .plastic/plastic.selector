@@ -1,0 +1,4 @@
+repository "ar-card@yyysama@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
